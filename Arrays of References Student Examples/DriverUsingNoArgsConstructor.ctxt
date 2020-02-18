@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DriverUsingNoArgsConstructor
+comment0.text=\n\ Another\ example\ of\ creating\ an\ array\ of\ references.\n\ Since\ it\ is\ ridiculus\ to\ hard-code\ values\ for\ each\n\ object,\ I\ use\ a\ loop\ here\ to\ create\ the\ Student\ objects.\n\ \n\ @author\ L.\ Lehmann\n\ @version\ v1\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
